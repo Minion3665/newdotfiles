@@ -1,5 +1,3 @@
 # newdotfiles
 
-Good
-
-Bad
+Who could say
