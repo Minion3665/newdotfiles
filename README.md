@@ -1,1 +1,5 @@
 # newdotfiles
+
+Good
+
+Bad
